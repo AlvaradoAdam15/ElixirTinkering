@@ -17,4 +17,12 @@ body {
     vertical-align: middle;
 }
 
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 96px;
+}
 /*# sourceMappingURL=all.css.map */
