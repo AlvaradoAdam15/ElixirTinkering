@@ -21,4 +21,6 @@ elixir(function(mix) {
         'hello.js',
         'hello2.js'
     ]);
+
+    mix.browserify('js/main.js');
 });
