@@ -11,10 +11,12 @@
 
     </head>
     <body>
+    <div class="jumbotron">
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
             </div>
         </div>
+    </div>
     </body>
 </html>
